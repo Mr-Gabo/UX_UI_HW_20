@@ -1,0 +1,29 @@
+
+
+header {
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+.footer li {
+  list-style: none;
+  padding: 20px;
+}
+.footer ul {
+  display: block;
+  justify-content: center;
+  width: 100%;
+
+}
+
+.container {
+  margin-bottom: 50px;
+}
+
+ @media only screen and (max-width:600px) {
+  .grid-container {
+      grid-template-columns: 1fr;
+  
+     }
+  
+ }
