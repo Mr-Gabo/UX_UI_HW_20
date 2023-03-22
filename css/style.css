@@ -1,4 +1,8 @@
 
+body {
+background-image: url(../images/backgroundtexture.jpeg);
+background-repeat: repeat;
+}
 
 header {
     justify-content: space-between;
